@@ -1,5 +1,6 @@
 theme: jekyll-theme-tactile
-title: Websites mit Github Pages 
+title: Websites mit Github Pages
+site:  Websites mit Github Pages
 description: Eine Anleitung zur Erstellung einer Website mit Github Pages
 # url: "https://bpgs.de"
 markdown: kramdown
