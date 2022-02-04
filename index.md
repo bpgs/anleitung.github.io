@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Man hat den Eindruck, dass Veränderungen nicht übernommen werden.
 
+## Themes
+
+gibt es bei <https://github.com/pages-themes>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
