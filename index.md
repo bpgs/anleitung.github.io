@@ -4,11 +4,16 @@ You can use the [editor on GitHub](https://github.com/bpgs/anleitung.github.io/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Passiert noch etwas?
+
+## Eigenes
+
+Diese Website basiert auf <https://docs.github.com/en/pages>
+
+### Passiert noch etwas?
 
 Man hat den Eindruck, dass Veränderungen nicht übernommen werden.
 
-## Themes
+### Themes
 
 gibt es bei <https://github.com/pages-themes>
 
