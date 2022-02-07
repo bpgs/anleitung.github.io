@@ -20,6 +20,8 @@ Man hat den Eindruck, dass Veränderungen nicht übernommen werden.
 
 gibt es bei <https://github.com/pages-themes>
 
+Gemäß Einstellungen in <https://github.com/bpgs/anleitung.github.io/settings/pages> wird das Theme `Tactile` verwendet.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
