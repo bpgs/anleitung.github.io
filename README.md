@@ -24,6 +24,7 @@ Diese Anleitung soll dazu dienen, interessierten Personen einen Wegweiser in deu
 3. **demo** <https://github.com/bpgs/demo>, 
 	* Repo>>Settings>>Pages <https://github.com/bpgs/demo/settings/pages>, 
 	* veröffentlichte Seite <https://github.bpgs.de/demo/>
+	* Seiten im Branch  *gh-pages* (als *Default* eingestellt), auch Branch *Master*
 	* lokal in `L:\Gitprojekte-neu\demo`
 4. **gh-pages-template** <https://github.com/bpgs/gh-pages-template>, 
 	* Repo>>Settings>>Pages <https://github.com/bpgs/gh-pages-template/settings/pages>,  
