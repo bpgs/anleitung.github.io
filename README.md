@@ -21,10 +21,13 @@ Diese Anleitung soll dazu dienen, interessierten Personen einen Wegweiser in deu
 * **gh-pages-template** <https://github.com/bpgs/gh-pages-template>, 
 	* Repo>>Settings>>Pages <https://github.com/bpgs/gh-pages-template/settings/pages>,  
 	* veröffentlichte Seite <https://github.bpgs.de/gh-pages-template/>
+	* lokal in `L:\Gitprojekte-neu\gh-pages-template`
 * **howto** (Telegram How-To) <https://github.com/bpgs/howto>
+	* lokal in `L:\Gitprojekte-neu\howto'
 * **minima** <https://github.com/bpgs/minima>,  
 	* Repo>>Settings>>Pages <https://github.com/bpgs/minima/settings/pages> ,  
 	* veröffentlichte Seite <https://github.bpgs.de/minima/>
+	* lokal in `L:\Gitprojekte-neu\minima`
 * **retlab** <https://github.com/bpgs/retlab>, keine GitHub Pages
 * **tactile** <https://github.com/bpgs/tactile>, keine GitHub Pages
 * **telegram-template-blue** <https://github.com/bpgs/telegram-template-blue>, keine GitHub Pages
