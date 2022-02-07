@@ -8,11 +8,18 @@ Diese Anleitung soll dazu dienen, interessierten Personen einen Wegweiser in deu
 
 1. **anleitung.github.io** (diese Repo)
 	* Repo>>Settings>>Pages <https://github.com/bpgs/anleitung.github.io/settings/pages>,
+	* dort Theme *Tactile* gewählt, erscheint auch in Datei `_config.yml` mit `theme: jekyll-theme-tactile`
 	* veröffentlichte Seite <https://dokumentation-github-pages.ecows.de/>
+	* Seiten im Branch  *gh-pages*, kein Branch *Master*
+	* Datei CNAME mit Inhalt `dokumentation-github-pages.ecows.de` 
 	* lokal in `L:\Gitprojekte-neu\anleitung.github.io`
 2. **bpgs.github.io** <https://github.com/bpgs/bpgs.github.io>, 
 	* Repo>>Settings>>Pages <https://github.com/bpgs/bpgs.github.io/settings/pages>, 
 	* veröffentlichte Seite <https://github.bpgs.de/>
+	* erzeugt mit **Mobirise**
+	* Seiten im Branch *Master*, kein Branch *gh-pages*
+	* Datei CNAME mit Inhalt `github.bpgs.de`
+	* kein Theme gewählt
 	* lokal in `L:\Gitprojekte-neu\bpgs.github.io`
 3. **demo** <https://github.com/bpgs/demo>, 
 	* Repo>>Settings>>Pages <https://github.com/bpgs/demo/settings/pages>, 
@@ -31,12 +38,16 @@ Diese Anleitung soll dazu dienen, interessierten Personen einen Wegweiser in deu
 7. **retlab** <https://github.com/bpgs/retlab>, keine GitHub Pages
 	* lokal in `L:\Gitprojekte-neu\retlab`
 8. **tactile** <https://github.com/bpgs/tactile>, keine GitHub Pages
+	* lokal in `L:\Gitprojekte-neu\tactile`
 9. **telegram-template-blue** <https://github.com/bpgs/telegram-template-blue>, 
 	* keine GitHub Pages
+	* lokal keine Repo
 10. **telegram-template-green** <https://github.com/bpgs/telegram-template-green>, 
 	* keine GitHub Pages
+	* lokal keine Repo
 11. **test-for-pc** <https://github.com/bpgs/test-for-pc>, 
-	* keine GitHub Pages, 
+	* keine GitHub Pages,
+	* lokal in `L:\Gitprojekte-neu\test-for-pc` 
 12. **test-github-pages** <https://github.com/bpgs/test-github-pages>,  
 	* veröffentlichte Seite <https://github.bpgs.de/test-github-pages/>, 
 	* Inhalt im Branch gh-pages, 
