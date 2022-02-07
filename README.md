@@ -6,7 +6,7 @@ Diese Anleitung soll dazu dienen, interessierten Personen einen Wegweiser in deu
 
 ## Diese und weitere interessante Repos
 
-* **anleitung.github.io** (diese Repo)
+1. **anleitung.github.io** (diese Repo)
 	* Repo>>Settings>>Pages <https://github.com/bpgs/anleitung.github.io/settings/pages>,
 	* veröffentlichte Seite <https://dokumentation-github-pages.ecows.de/>
 	* lokal in `L:\Gitprojekte-neu\anleitung.github.io`
@@ -23,23 +23,27 @@ Diese Anleitung soll dazu dienen, interessierten Personen einen Wegweiser in deu
 	* veröffentlichte Seite <https://github.bpgs.de/gh-pages-template/>
 	* lokal in `L:\Gitprojekte-neu\gh-pages-template`
 * **howto** (Telegram How-To) <https://github.com/bpgs/howto>
-	* lokal in `L:\Gitprojekte-neu\howto'
+	* lokal in `L:\Gitprojekte-neu\howto`
 * **minima** <https://github.com/bpgs/minima>,  
 	* Repo>>Settings>>Pages <https://github.com/bpgs/minima/settings/pages> ,  
 	* veröffentlichte Seite <https://github.bpgs.de/minima/>
 	* lokal in `L:\Gitprojekte-neu\minima`
 * **retlab** <https://github.com/bpgs/retlab>, keine GitHub Pages
+	* lokal in `L:\Gitprojekte-neu\retlab`
 * **tactile** <https://github.com/bpgs/tactile>, keine GitHub Pages
-* **telegram-template-blue** <https://github.com/bpgs/telegram-template-blue>, keine GitHub Pages
-* **telegram-template-green** <https://github.com/bpgs/telegram-template-green>, keine GitHub Pages
-* **test-for-pc** <https://github.com/bpgs/test-for-pc>, keine GitHub Pages, 
+* **telegram-template-blue** <https://github.com/bpgs/telegram-template-blue>, 
+	* keine GitHub Pages
+* **telegram-template-green** <https://github.com/bpgs/telegram-template-green>, 
+	* keine GitHub Pages
+* **test-for-pc** <https://github.com/bpgs/test-for-pc>, 
+	* keine GitHub Pages, 
 * **test-github-pages** <https://github.com/bpgs/test-github-pages>,  
 	* veröffentlichte Seite <https://github.bpgs.de/test-github-pages/>, 
 	* Inhalt im Branch gh-pages, 
 	* Thema-Auswahl über `_config.yml`, dort `remote-theme: bpgs/redlab`
 * **testrepo** , <https://github.com/bpgs/testrepo>, 
 	* veröffentlichte Seite<https://github.bpgs.de/test-github-pages/>,
-	* Inhalt im Branch gh-pages,
+	* GitHub Pages im Branch gh-pages,
 	* Thema-Auswahl über Repo>>Settings>>Pages <https://github.com/bpgs/testrepo/settings/pages> 
 
 
