@@ -1,3 +1,10 @@
+<style>
+img { 
+border: 2px solid #aac;
+}
+</style>
+
+
 Das sind einige Bilder
 
 ![test](anleitung.github.io-cname-01.jpg)
