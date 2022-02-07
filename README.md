@@ -21,10 +21,11 @@ Diese Anleitung soll dazu dienen, interessierten Personen einen Wegweiser in deu
 	* Datei CNAME mit Inhalt `github.bpgs.de`
 	* kein Theme gewählt
 	* lokal in `L:\Gitprojekte-neu\bpgs.github.io`
+	* Repo ist auch die Quelle für <https://ganzneu.telegr.am> bei **telegr.am**
 3. **demo** <https://github.com/bpgs/demo>, 
 	* Repo>>Settings>>Pages <https://github.com/bpgs/demo/settings/pages>, 
 	* veröffentlichte Seite <https://github.bpgs.de/demo/>
-	* Seiten im Branch  *gh-pages* (als *Default* eingestellt), auch Branch *Master*
+	* Seiten im Branch  *gh-pages* (als *Default* eingestellt), auch Branch *Master* vorhanden
 	* lokal in `L:\Gitprojekte-neu\demo`
 4. **gh-pages-template** <https://github.com/bpgs/gh-pages-template>, 
 	* Repo>>Settings>>Pages <https://github.com/bpgs/gh-pages-template/settings/pages>,  
@@ -32,6 +33,7 @@ Diese Anleitung soll dazu dienen, interessierten Personen einen Wegweiser in deu
 	* lokal in `L:\Gitprojekte-neu\gh-pages-template`
 5. **howto** (Telegram How-To) <https://github.com/bpgs/howto>
 	* lokal in `L:\Gitprojekte-neu\howto`
+	* Repo ist auch die Quelle für <https://gitties.telegr.am/> bei **telegr.am**
 6. **minima** <https://github.com/bpgs/minima>,  
 	* Repo>>Settings>>Pages <https://github.com/bpgs/minima/settings/pages> ,  
 	* veröffentlichte Seite <https://github.bpgs.de/minima/>
