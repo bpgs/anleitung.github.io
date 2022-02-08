@@ -52,9 +52,10 @@ Diese Anleitung soll dazu dienen, interessierten Personen einen Wegweiser in deu
 	* keine GitHub Pages,
 	* lokal in `L:\Gitprojekte-neu\test-for-pc` 
 12. **test-github-pages** <https://github.com/bpgs/test-github-pages>,  
-	* veröffentlichte Seite <https://github.bpgs.de/test-github-pages/>, 
-	* Inhalt im Branch gh-pages, 
-	* Thema-Auswahl über `_config.yml`, dort `remote-theme: bpgs/redlab`
+	* veröffentlichte Seite <https://githubpages.9f8.de/>, 
+	* Inhalt im Branch gh-pages
+	* Datei CNAME mit Inhalt `githubpages.9f8.de` 
+	* Thema-Auswahl über `_config.yml`, dort `remote-theme: bpgs/redlab`, diese Wahl hat aber anscheinend keine Auswirkung
 13. **testrepo** , <https://github.com/bpgs/testrepo>, 
 	* veröffentlichte Seite<https://github.bpgs.de/test-github-pages/>,
 	* GitHub Pages im Branch gh-pages,
